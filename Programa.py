@@ -35,3 +35,5 @@ button2.pack()
 button1.pack()
 
 root.mainloop()
+
+#da pra tu ler? responde no whats :3
