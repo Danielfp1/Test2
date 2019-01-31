@@ -5,6 +5,8 @@ import time
 
 arq=open('arq.txt',"r")
 
+#dasdasdasd
+
 root = Tk()
 class Fun:
     def __init__(self, cont, pausa,aux):
@@ -35,5 +37,3 @@ button2.pack()
 button1.pack()
 
 root.mainloop()
-
-#da pra tu ler? responde no whats :3
