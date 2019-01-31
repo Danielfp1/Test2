@@ -3,9 +3,9 @@ from tkinter import *
 import pyperclip
 import time
 
-arq=open('arq.txt',"r")
+arq=open('C:/Users/e902209/Downloads/Test2/arq.txt',"r")
 
-#dasdasdasd
+#asda
 
 root = Tk()
 class Fun:
